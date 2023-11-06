@@ -15,6 +15,7 @@ All must be in your path !
 
 ```sh
   git clone https://github.com/mdogancay/tutorial-server.git
+  cd tutorial-server
   npm i
 ```
 
