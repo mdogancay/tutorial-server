@@ -2,6 +2,7 @@
 
 `tutorial-server` Great tool to download, serve and control Youtube tutorials locally.
 I developed this software for my own needs, but I wanted to share it with those who need it like me.
+**_Warning: Only tested on Windows 10!_**
 
 Original Author Credit: Sumit Chawla, David Dombrowsky
 
