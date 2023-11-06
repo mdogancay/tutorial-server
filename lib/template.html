@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- make node integration compatible -->
+    <script>
+      if (typeof module === "object") {
+        window.module = module;
+        module = undefined;
+      }
+    </script>
+
+    <script src="/lib/js/jquery.min.js"></script>
+    <title>Tutorial Server</title>
+    <link rel="stylesheet" href="/lib/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css" />
+    <!-- link rel="stylesheet" href="/lib/css/rajeo-player.css" / -->
+    <link rel="stylesheet" href="/lib/css/app.css" />
+  </head>
+  <body>
+    <div>
+      <!-- Nav tabs -->
+      <ul id="myTabs" class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active"><a href="#tutorials" aria-controls="tutorials" role="tab" data-toggle="tab">Tutorials</a></li>
+        <li role="presentation"><a href="#gettutorial" aria-controls="gettutorial" role="tab" data-toggle="tab">Get Tutorial</a></li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tutorials">
+          <div class="input-group">
+            <span class="input-group-addon" id="basic-addon3">Search Folders : </span>
+            <input id="txt_search_folders" type="text" class="form-control" placeholder="Search Word" aria-describedby="basic-addon3" />
+          </div>
+          <button id="btnSearch" type="button" class="btn btn-default">Search</button> &nbsp;
+          <div class="panel panel-default mainpanel">
+            <div class="panel-heading">
+              <span class="add"> <i class="fa fa-plus"></i> Add </span>&nbsp;&nbsp;&nbsp;<span class="up"> <i class="fa fa-level-up"></i> Up </span>&nbsp;&nbsp;&nbsp; Current
+              Folder :
+              <span id="currentPath" class="currentPath"></span>
+            </div>
+            <div class="panel-body">
+              <table class="linksholder"></table>
+            </div>
+          </div>
+        </div>
+        <div role="tabpanel" class="tab-pane" id="gettutorial">
+          <!-- ---------------------  Yeni Download ------------------------------------------------------------- -->
+          <div class="input-group">
+            <span class="input-group-addon" id="basic-addon2">Youtube URL</span>
+            <input id="txt_youtube_url" type="text" class="form-control" placeholder="Youtube URL" aria-describedby="basic-addon2" />
+          </div>
+
+          <div class="input-group">
+            <span class="input-group-addon" id="basic-addon1">Target Folder: </span>
+            <input type="text" id="txt_target_folder" class="form-control" placeholder="Target Folder" aria-describedby="basic-addon1" />
+          </div>
+          <button id="btnGetTutorial" type="button" class="btn btn-default">Get Tutorial</button> &nbsp;
+          <button id="btnClearLog" type="button" class="btn btn-default">Clear Log</button>
+          <div class="form-outline">
+            <textarea class="form-control console" id="textAreaExample1" rows="40">No data here yet</textarea>
+            <label class="form-label" for="textAreaExample1"></label>
+          </div>
+          <!-- /---------------------  Yeni Download ------------------------------------------------------------- -->
+        </div>
+      </div>
+    </div>
+
+    <script src="/lib/js/bootstrap.min.js"></script>
+    <script src="/lib/datatable/js/jquery.datatables.min.js"></script>
+    <script src="/lib/js/app.js"></script>
+    <script class="reloadMe"></script>
+  </body>
+</html>
