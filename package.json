@@ -4,8 +4,12 @@
   "version": "1.0.0",
   "description": "Download, control and serve tutorials from youtube.",
   "keywords": [
-    "tutorialserver",
-    "tutorial server"
+    "tutorial-server",
+    "tutorial server",
+    "youtube",
+    "tutorials",
+    "youtube tutorials",
+    "youtube local server"
   ],
   "scripts": {
     "serve": "start chrome \"http://localhost:8088/\" && node ./cli.js"
