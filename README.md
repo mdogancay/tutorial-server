@@ -1,6 +1,7 @@
 # Tutorial-server
 
 `tutorial-server` Great tool to download, serve and control Youtube tutorials locally.
+I developed this software for my own needs, but I wanted to share it with those who need it like me.
 
 Original Author Credit: Sumit Chawla, David Dombrowsky
 
@@ -15,6 +16,10 @@ All must be in your path !
   git clone https://github.com/mdogancay/tutorial-server.git
   npm i
 ```
+
+## Settings
+
+Settings in `.env` file
 
 ## How to Run
 
