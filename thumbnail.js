@@ -12,6 +12,7 @@ const { getHash } = require("./hash");
 let root_dir = process.env.FOLDER_TUTORIALS;
 let THUMB_PATH = process.env.FOLDER_THUMBNAILS;
 if (THUMB_PATH.search("/") == -1 || THUMB_PATH.search("\\") == -1) THUMB_PATH = path.join(__dirname, THUMB_PATH);
+if (!fs.existsSync(THUMB_PATH)) shelljs.mkdir("-p", THUMB_PATH);
 // console.log(THUMB_PATH);
 
 // function to encode file data to base64 encoded string

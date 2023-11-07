@@ -1,0 +1,335 @@
+[youtube:tab] Extracting URL: https://www.youtube.com/@UnrealEngineTutorials/videos
+[youtube:tab] @UnrealEngineTutorials/videos: Downloading webpage
+[download] Downloading playlist: Unreal Engine Tutorials - Videos
+[youtube:tab] Playlist Unreal Engine Tutorials - Videos: Downloading 22 items of 22
+[download] Downloading item 1 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xFzgkIEi2ic
+[youtube] xFzgkIEi2ic: Downloading webpage
+[youtube] xFzgkIEi2ic: Downloading ios player API JSON
+[youtube] xFzgkIEi2ic: Downloading android player API JSON
+[youtube] xFzgkIEi2ic: Downloading player 9d15588c
+[youtube] xFzgkIEi2ic: Downloading m3u8 information
+[info] xFzgkIEi2ic: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'This is the beginning of the Attacking. There is much more to setting this up so if you are enjoying the course so far and would like to continue, head on over to my Teachable website and purchase the full course!\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=xFzgkIEi2ic'
+[info] xFzgkIEi2ic: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].en.vtt
+
+[download] 100% of  112.30KiB in 00:00:00 at 277.94KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 174
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].f140.m4a
+
+[download] 100% of   13.41MiB in 00:00:03 at 4.23MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\01-Part_9_-_Basic_Attack_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[xFzgkIEi2ic].mp4"
+[download] Downloading item 2 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yZVgRZvWJZg
+[youtube] yZVgRZvWJZg: Downloading webpage
+[youtube] yZVgRZvWJZg: Downloading ios player API JSON
+[youtube] yZVgRZvWJZg: Downloading android player API JSON
+[youtube] yZVgRZvWJZg: Downloading m3u8 information
+[info] yZVgRZvWJZg: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': "Rolling is an essential part of all Souls games so you will learn how to do some rolling. There is a bug however and it's that I simply forgot to uncheck the Boolean. We solve this later in the course, but see if you can solve it yourself!\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/"
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=yZVgRZvWJZg'
+[info] yZVgRZvWJZg: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].en.vtt
+
+[download] 100% of  125.63KiB in 00:00:00 at 354.88KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 180
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].f140.m4a
+
+[download] 100% of   14.09MiB in 00:00:05 at 2.80MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\02-Part_8_-_Rolling_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[yZVgRZvWJZg].mp4"
+[download] Downloading item 3 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=glTR12n9FZ0
+[youtube] glTR12n9FZ0: Downloading webpage
+[youtube] glTR12n9FZ0: Downloading ios player API JSON
+[youtube] glTR12n9FZ0: Downloading android player API JSON
+[youtube] glTR12n9FZ0: Downloading m3u8 information
+[info] glTR12n9FZ0: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'Next is Sprinting, and we want to set it up so it works for multiplayer!\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=glTR12n9FZ0'
+[info] glTR12n9FZ0: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].en.vtt
+
+[download] 100% of  169.82KiB in 00:00:00 at 368.38KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 228
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].f140.m4a
+
+[download] 100% of   17.57MiB in 00:00:06 at 2.88MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\03-Part_7_-_Sprinting_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[glTR12n9FZ0].mp4"
+[download] Downloading item 4 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=fWkDedOZais
+[youtube] fWkDedOZais: Downloading webpage
+[youtube] fWkDedOZais: Downloading ios player API JSON
+[youtube] fWkDedOZais: Downloading android player API JSON
+[youtube] fWkDedOZais: Downloading m3u8 information
+[info] fWkDedOZais: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'Now we will create an Animation Blueprint for the character and use that to setup some basic movement so the running animations and such can play. Wee!\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=fWkDedOZais'
+[info] fWkDedOZais: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].en.vtt
+
+[download] 100% of   84.53KiB in 00:00:00 at 224.22KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 112
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].f140.m4a
+
+[download] 100% of    8.73MiB in 00:00:03 at 2.88MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\04-Part_6_-_Animation_Blueprint_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[fWkDedOZais].mp4"
+[download] Downloading item 5 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uW8_bNv-8E0
+[youtube] uW8_bNv-8E0: Downloading webpage
+[youtube] uW8_bNv-8E0: Downloading ios player API JSON
+[youtube] uW8_bNv-8E0: Downloading android player API JSON
+[youtube] uW8_bNv-8E0: Downloading m3u8 information
+[info] uW8_bNv-8E0: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'Time to setup the basic movement so the player can move around.\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=uW8_bNv-8E0'
+[info] uW8_bNv-8E0: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].en.vtt
+
+[download] 100% of   40.35KiB in 00:00:00 at 126.51KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 54
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].f140.m4a
+
+[download] 100% of    4.17MiB in 00:00:01 at 2.24MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].f617.mp4 (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].f140.m4a (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\05-Part_5_-_Movement_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[uW8_bNv-8E0].mp4"
+[download] Downloading item 6 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-8_a9Dv6JEo
+[youtube] -8_a9Dv6JEo: Downloading webpage
+[youtube] -8_a9Dv6JEo: Downloading ios player API JSON
+[youtube] -8_a9Dv6JEo: Downloading android player API JSON
+[youtube] -8_a9Dv6JEo: Downloading m3u8 information
+[info] -8_a9Dv6JEo: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'Time to start setting up the main character.\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=-8_a9Dv6JEo'
+[info] -8_a9Dv6JEo: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].en.vtt
+
+[download] 100% of   53.37KiB in 00:00:00 at 159.80KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 71
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].f140.m4a
+
+[download] 100% of    5.55MiB in 00:00:02 at 2.65MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\06-Part_4_-_Character_Setup_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[-8_a9Dv6JEo].mp4"
+[download] Downloading item 7 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TA6nuzu2Y3Y
+[youtube] TA6nuzu2Y3Y: Downloading webpage
+[youtube] TA6nuzu2Y3Y: Downloading ios player API JSON
+[youtube] TA6nuzu2Y3Y: Downloading android player API JSON
+[youtube] TA6nuzu2Y3Y: Downloading m3u8 information
+[info] TA6nuzu2Y3Y: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': 'Lets continue in Blender and get the sword and shield setup so they can be separate items once we re-import them back into Unreal Engine 4.\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/'
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=TA6nuzu2Y3Y'
+[info] TA6nuzu2Y3Y: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].en.vtt
+
+[download] 100% of   81.46KiB in 00:00:00 at 232.81KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 111
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].f140.m4a
+
+[download] 100% of    8.68MiB in 00:00:02 at 3.45MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\07-Part_3_-_Blender_Items_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[TA6nuzu2Y3Y].mp4"
+[download] Downloading item 8 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3jqr4H-ZIH0
+[youtube] 3jqr4H-ZIH0: Downloading webpage
+[youtube] 3jqr4H-ZIH0: Downloading ios player API JSON
+[youtube] 3jqr4H-ZIH0: Downloading android player API JSON
+[youtube] 3jqr4H-ZIH0: Downloading m3u8 information
+[info] 3jqr4H-ZIH0: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': "Now it's time to jump into Blender and remove the attached sword/shield from Greystone. This is a skill you'll use forever in that you can remove meshes and export your own. Really cool!\n\nCheck out the FULL course here: https://unrealenginemastery.teachable.com/"
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=3jqr4H-ZIH0'
+[info] 3jqr4H-ZIH0: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].en.vtt
+
+[download] 100% of  109.49KiB in 00:00:00 at 253.45KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 143
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].f140.m4a
+
+[download] 100% of   11.19MiB in 00:00:03 at 3.05MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\08-Part_2_-_Remove_Weapons_-_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[3jqr4H-ZIH0].mp4"
+[download] Downloading item 9 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1zDb7FWfmGw
+[youtube] 1zDb7FWfmGw: Downloading webpage
+[youtube] 1zDb7FWfmGw: Downloading ios player API JSON
+[youtube] 1zDb7FWfmGw: Downloading android player API JSON
+[youtube] 1zDb7FWfmGw: Downloading m3u8 information
+[info] 1zDb7FWfmGw: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': "Welcome to my Multiplayer Souls-Like Action RPG course in Unreal Engine 4! I am posting the first 2 chapters for free on my channel for you to get a feel of the course and see if it's something you want.\n\nGet the FULL course here: https://unrealenginemastery.teachable.com/\n\nEnjoy!"
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=1zDb7FWfmGw'
+[info] 1zDb7FWfmGw: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].en.vtt
+
+[download] 100% of   84.56KiB in 00:00:00 at 262.62KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 112
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].f140.m4a
+
+[download] 100% of    8.66MiB in 00:00:02 at 3.93MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].f617.mp4 (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].f140.m4a (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\09-Make_a_Multiplayer_Souls-Like_Action_RPG_in_Unreal_Engine_4-[1zDb7FWfmGw].mp4"
+[download] Downloading item 10 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TMaJuEEwFE4
+[youtube] TMaJuEEwFE4: Downloading webpage
+[youtube] TMaJuEEwFE4: Downloading ios player API JSON
+[youtube] TMaJuEEwFE4: Downloading android player API JSON
+[youtube] TMaJuEEwFE4: Downloading m3u8 information
+[info] TMaJuEEwFE4: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': "Check out my Unreal Engine 4 courses:\n==================================\nSouls-Like Action RPG with Multiplayer: https://unrealenginemastery.teachable.com/p/souls-like-action-rpg-game-with-multiplayer\nStealth Horror Game for Beginners: https://unrealenginemastery.teachable.com/p/unreal-engine-4-beginner-course-stealth-horror-game\nMultiplayer First Person Shooter with Dedicated Servers: https://unrealenginemastery.teachable.com/p/multiplayer-fps-inspired-by-cs-go\nMultiplayer Top-Down Dungeon Crawler: https://unrealenginemastery.teachable.com/p/multiplayer-top-down-dungeon-crawler\nMultiplayer Grid Inventory System: https://unrealenginemastery.teachable.com/p/multiplayer-grid-inventory-system\n==================================\n\nI always use Unreal Frontend to package up my games and projects. It's extremely quick and there's no better way to test your games than with a fully packaged game. In this tutorial, you'll learn how to setup Frontend for your project, how to package it, how to add maps, the settings, and so on. Everything you need to know is in this video tutorial. Enjoy!\n\n#UnrealFrontend #UE4"
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=TMaJuEEwFE4'
+[info] TMaJuEEwFE4: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].en.vtt
+
+[download] 100% of   95.55KiB in 00:00:00 at 283.53KiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 110
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].f617.mp4
+
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].f140.m4a
+
+[download] 100% of    8.47MiB in 00:00:02 at 3.19MiB/s
+[Merger] Merging formats into "F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].f140.m4a (pass -k to keep)
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].f617.mp4 (pass -k to keep)
+[EmbedSubtitle] Embedding subtitles in "F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].mp4"
+Deleting original file F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].en.vtt (pass -k to keep)
+[Metadata] Adding metadata to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].mp4"
+[ThumbnailsConvertor] Converting thumbnail "F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].webp" to png
+[EmbedThumbnail] mutagen: Adding thumbnail to "F:\Tutorials\All\UE4\@UnrealEngineTutorials\10-How_to_Package_Games_Projects_with_UNREAL_FRONTEND-[TMaJuEEwFE4].mp4"
+[download] Downloading item 11 of 22
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ROMWCMmNBHE
+[youtube] ROMWCMmNBHE: Downloading webpage
+[youtube] ROMWCMmNBHE: Downloading ios player API JSON
+[youtube] ROMWCMmNBHE: Downloading android player API JSON
+[youtube] ROMWCMmNBHE: Downloading m3u8 information
+[info] ROMWCMmNBHE: Downloading subtitles: en
+[MetadataParser] Parsed webpage_url from '%(description)s': "Check out my Unreal Engine 4 courses:\n==================================\nSouls-Like Action RPG with Multiplayer: https://unrealenginemastery.teachable.com/p/souls-like-action-rpg-game-with-multiplayer\nStealth Horror Game for Beginners: https://unrealenginemastery.teachable.com/p/unreal-engine-4-beginner-course-stealth-horror-game\nMultiplayer First Person Shooter with Dedicated Servers: https://unrealenginemastery.teachable.com/p/multiplayer-fps-inspired-by-cs-go\nMultiplayer Top-Down Dungeon Crawler: https://unrealenginemastery.teachable.com/p/multiplayer-top-down-dungeon-crawler\nMultiplayer Grid Inventory System: https://unrealenginemastery.teachable.com/p/multiplayer-grid-inventory-system\n==================================\n\nIt's time for my first Unreal Engine 5 beginner tutorial! And we're going to be making a top down shooter. We'll be using Quixel Bridge as well as a Paragon character because why not? They're awesome and they come with a ton of animations."
+[MetadataParser] Parsed album from '%(original_url)s': 'https://www.youtube.com/watch?v=ROMWCMmNBHE'
+[info] ROMWCMmNBHE: Downloading 1 format(s): 617+140
+[info] Writing video subtitles to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\11-Make_a_Top_Down_Shooter_in_Unreal_Engine_5-[ROMWCMmNBHE].en.vtt
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\11-Make_a_Top_Down_Shooter_in_Unreal_Engine_5-[ROMWCMmNBHE].en.vtt
+
+[download] 100% of  661.82KiB in 00:00:00 at 1.27MiB/s
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: F:\Tutorials\All\UE4\@UnrealEngineTutorials\11-Make_a_Top_Down_Shooter_in_Unreal_Engine_5-[ROMWCMmNBHE].webp
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 902
+[download] Destination: F:\Tutorials\All\UE4\@UnrealEngineTutorials\11-Make_a_Top_Down_Shooter_in_Unreal_Engine_5-[ROMWCMmNBHE].f617.mp4
+

@@ -99,10 +99,28 @@ app.get("/getmaindir", function (req, res) {
 });
 
 app.get("/getconsole", function (req, res) {
-  if (!global.commandline && global.commandline == "") {
+  if (!global.commandline || global.commandline == "") {
     res.send("");
   } else {
-    res.send(global.commandline);
+    // if (global.commandline && global.commandline != "") {
+
+    // }
+    let txt_array = global.commandline.split(/\r\n|\n|\r/g);
+    let clean_array = [];
+    for (let index = 0; index < txt_array.length; index++) {
+      // console.log("-" + txt_array[index] + "-");
+      if (txt_array[index].startsWith("[download]")) {
+        if (txt_array[index + 1] && !txt_array[index + 1].startsWith("[download]")) {
+          clean_array.push(txt_array[index]);
+        } else if (!txt_array[index + 1]) {
+          clean_array.push(txt_array[index]);
+        }
+      } else {
+        // console.log("-" + txt_array[index] + "-");
+        clean_array.push(txt_array[index]);
+      }
+    }
+    res.send(clean_array.join("\n"));
     global.commandline = "";
   }
 });
