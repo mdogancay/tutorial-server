@@ -110,7 +110,7 @@ app.get("/getconsole", function (req, res) {
     for (let index = 0; index < txt_array.length; index++) {
       // console.log("-" + txt_array[index] + "-");
       if (txt_array[index].startsWith("[download]")) {
-        if (txt_array[index + 1] && !txt_array[index + 1].startsWith("[download]")) {
+        if (txt_array[index + 1] && (!txt_array[index + 1].startsWith("[download]") || txt_array[index + 1].startsWith("[download] Destination"))) {
           clean_array.push(txt_array[index]);
         } else if (!txt_array[index + 1]) {
           clean_array.push(txt_array[index]);

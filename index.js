@@ -3,6 +3,7 @@ const _ = require("lodash");
 const path = require("path");
 const { getThumbnail } = require("./thumbnail.js");
 const { getVideoInfo } = require("./videoinfo.js");
+const { getSubtitles } = require("./subtitles.js");
 
 let dir;
 let include;
@@ -57,11 +58,13 @@ function displayFiles(files, currentDir, query) {
         rstr = currentDir;
       }
       let thumb = "";
+      let subtitles = "";
       let fileInfo = JSON.parse("{}");
       let filePath = path.join(currentDir, file);
       if (ext == ".mp4" || ext == ".mpg" || ext == ".mkv") {
         thumb = getThumbnail(filePath);
         fileInfo = getVideoInfo(filePath);
+        subtitles = getSubtitles(filePath);
         // console.log("meta : " + meta);
       }
       data.push([
@@ -75,6 +78,7 @@ function displayFiles(files, currentDir, query) {
           Root: rstr,
           Thumb: thumb,
           FileInfo: fileInfo,
+          Subtitles: subtitles,
         },
       ]);
     }
@@ -152,11 +156,13 @@ function walk(dirPath, query, search_word, currentDir) {
         rstr = currentDir;
       }
       let thumb = "";
+      let subtitles = "";
       let fileInfo = JSON.parse("{}");
       let filePath = path.join(dirPath, file);
       if (ext == ".mp4" || ext == ".mpg" || ext == ".mkv") {
         thumb = getThumbnail(filePath);
         fileInfo = getVideoInfo(filePath);
+        subtitles = getSubtitles(filePath);
         // console.log("meta : " + meta);
       }
       data.push([
@@ -170,6 +176,7 @@ function walk(dirPath, query, search_word, currentDir) {
           Root: rstr,
           Thumb: thumb,
           FileInfo: fileInfo,
+          Subtitles: subtitles,
         },
       ]);
     }
