@@ -140,3 +140,5 @@ app.post("/runcommand", function (req, res) {
   });
   res.send("ok");
 });
+
+//fb.init();

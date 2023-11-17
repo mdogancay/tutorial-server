@@ -1,6 +1,7 @@
 const fs = require("fs");
 const _ = require("lodash");
 const path = require("path");
+require("dotenv").config();
 const { getThumbnail } = require("./thumbnail.js");
 const { getVideoInfo } = require("./videoinfo.js");
 const { getSubtitles } = require("./subtitles.js");
@@ -132,6 +133,7 @@ exports.get = function (req, res) {
 };
 
 function walk(dirPath, query, search_word, currentDir) {
+  console.log(`dirPath : ${dirPath} - query : ${query}`);
   let entries = fs.readdirSync(dirPath);
   var data = [];
   entries.forEach(function (file) {
@@ -190,12 +192,32 @@ function walk(dirPath, query, search_word, currentDir) {
 
 exports.getByNameRecursive = function (req, res) {
   let query = req.query.path || "";
+  console.log("req.query.path : " + req.query.path);
   let search_word = req.query.word || "";
+  console.log("req.query.word : " + req.query.word);
   let currentDir = path.join(dir, query);
-  // console.log(`query : ${query} search_word : ${search_word} currentDir : ${currentDir} `);
+  console.log(`query : ${query} search_word : ${search_word} currentDir : ${currentDir} `);
   let data = walk(currentDir, query, search_word, currentDir);
-  // console.log(`query : ${query} search_word : ${search_word} currentDir : ${currentDir} data: ${data}`);
+  console.log(`query : ${query} search_word : ${search_word} currentDir : ${currentDir} data: ${data}`);
   res.json(data);
+};
+
+exports.init = function () {
+  let query = "";
+  let search_word = "";
+  let currentDir = process.env.FOLDER_TUTORIALS;
+  console.log(currentDir);
+  let data = walk(currentDir, query, search_word, currentDir);
+  let alreadyRun = false;
+  fs.watch(currentDir, (eventType, filename) => {
+    if (!alreadyRun) {
+      alreadyRun = true;
+      console.log("\nThe file", filename, "was modified!");
+      console.log("The type of change was:", eventType);
+      walk(currentDir, query, search_word, currentDir);
+      alreadyRun = false;
+    }
+  });
 };
 
 exports.configure = function (c) {
